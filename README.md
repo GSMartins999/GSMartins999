@@ -1,6 +1,8 @@
 ### Olá, seja Bem vindo!! 👋
 Me chamo Giovanni de Souza Martins, atualmente tenho 18 anos e busco oportunidade de emprego na área de TI. Recentemente em 2022 me formei em técnico em informática pelo Centro Federal de Educação e Tecnologia, o CEFET. No Cefet pude aprender sobre desenvolvimento de soluções, aplicações e muito mais!! Atualmente sigo na área do TI, cursando agora o curso Bacharel em Sistemas de Informação, também pelo Cefet.
 
+
+
 Aqui estão minhas redes sociais:
 
 
@@ -11,6 +13,11 @@ Aqui estão minhas redes sociais:
 
 Email:
 giovannisouza216@gmail.com
+
+
+
+
+
 
 
 Ferramentas que utilizo:
@@ -34,11 +41,19 @@ Ferramentas que utilizo:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+
+
+
+
+
 Sistemas Operacionais que utilizo:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+
 
 
 <a href="https://github.com/GSMartins999/github-readme-stats">
