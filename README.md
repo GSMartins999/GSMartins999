@@ -31,9 +31,9 @@ Ferramentas que utilizo:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/GSMartins999/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GSMartins999" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/GSMartins999/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GSMartins999&layout=compact&langs_count=8&card_width=320" />
 </a>
