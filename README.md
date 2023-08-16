@@ -30,9 +30,7 @@ Ferramentas que utilizo:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMartins999&layout=compact)
 
-![GSMartins999 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 <a href="https://github.com/GSMartins999/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GSMartins999" />
