@@ -57,7 +57,7 @@ Sistemas Operacionais que utilizo:
 
 
 <a href="https://github.com/GSMartins999/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GSMartins999" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GSMartins999" />
 </a>
 <a href="https://github.com/GSMartins999/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GSMartins999&layout=compact&langs_count=8&card_width=320" />
