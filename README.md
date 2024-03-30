@@ -1,5 +1,5 @@
 ### Olá, seja Bem vindo!! 👋
-Me chamo Giovanni de Souza Martins, atualmente tenho 18 anos e busco oportunidade de emprego na área de TI. Recentemente em 2022 me formei em técnico em informática pelo Centro Federal de Educação e Tecnologia, o CEFET. No Cefet pude aprender sobre desenvolvimento de soluções, aplicações e muito mais!! Atualmente sigo na área do TI, cursando agora o curso Bacharel em Sistemas de Informação, também pelo Cefet.
+Me chamo Giovanni de Souza Martins, atualmente tenho 19 anos e busco oportunidade de emprego na área de TI. Recentemente em 2022 me formei em técnico em informática pelo Centro Federal de Educação e Tecnologia, o CEFET. No Cefet pude aprender sobre desenvolvimento de soluções, aplicações e muito mais!! Atualmente sigo na área do TI, cursando agora o curso Bacharel em Sistemas de Informação, também pelo Cefet.
 
 
 
